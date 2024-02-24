@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ex7pXw7SMEDxeRtKkkz/LM3v5DhI1GFjOJMWIM+0X770txBxpiTnexSW0Om3S4MUYnGCyIHZEFf36KTDO6bJmQ==",
+  "success": true,
+  "projectFilePath": "/Users/ihoryakovyna/Documents/source/tech-task/Payment/Payment.Core/Payment.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/ihoryakovyna/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/ihoryakovyna/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
